@@ -17,11 +17,11 @@ SQL & BigQuery for scalable data exploration
 
 I’m open to collaborating on:
 
-Data-driven projects in finance, e-commerce, or healthcare
+- Data-driven projects in finance, e-commerce, logistics, NGO or healthcare
 
-Open-source contributions in data visualization and ML libraries
+- Open-source contributions in data visualization and ML libraries
 
-Research or case studies involving predictive analytics and business intelligence
+- Research or case studies involving predictive analytics and business intelligence
 
 📫 Let’s Connect
 

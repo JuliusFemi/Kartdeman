@@ -12,7 +12,7 @@ Deep learning with PyTorch and TensorFlow
 Customer segmentation, churn prediction, and recommendation systems
 
 SQL & BigQuery for scalable data exploration
-
+ 
 🤝 Collaboration Interests
 
 I’m open to collaborating on:

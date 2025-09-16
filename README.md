@@ -1,4 +1,4 @@
-👋 Hi, I’m Femi Julius
+👋 Hi, I’m Femi Adeyemo
 👀 About Me
 
 I’m passionate about Data Science and Big Data Analytics, with a strong focus on uncovering insights, building predictive models, and leveraging data for smarter decision-making. My journey into data began with curiosity about human and business behavior, and it has since grown into a commitment to continuous learning and applied problem-solving.
